@@ -7,7 +7,7 @@
 </head>
 
 <body>
-    <a href='/mysqllearning'>Back To Main Menu</a><hr>
+    <a href='/MySQL-Learning/'>Back To Main Menu</a><hr>
     <!-- Form for adding to demo database table persons -->
     <form action="insert.php" method="post">
         <p>

@@ -1,6 +1,6 @@
 <?php
     // LINK BACK TO MAIN MENU
-    echo "<a href='/mysqllearning'>Back To Main Menu</a><hr>";
+    echo "<a href='/MySQL-Learning/'>Back To Main Menu</a><hr>";
     // attempting to connect to local mysql server
     $link = mysqli_connect("localhost", "root", "", "demo");
 

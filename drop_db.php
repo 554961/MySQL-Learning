@@ -1,7 +1,7 @@
 <!-- delete a database... -->
 <?php
     // LINK BACK TO MAIN MENU
-    echo "<a href='/mysqllearning'>Back To Main Menu</a><hr>";
+    echo "<a href='/MySQL-Learning/'>Back To Main Menu</a><hr>";
     // connecting to db
     $link = mysqli_connect("localhost", "root","","demo");
 
